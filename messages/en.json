@@ -1,0 +1,14 @@
+{
+    "title" : "Head",
+    "nav" : {
+        "home" : "Home",
+        "products" : "Products",
+        "options" : "Options",
+        "dashboard" : "Dashboard",
+        "add" : "Add",
+        "signOut" : "Sign-out"
+    },
+    "add" : {
+        "product_add" : "Products Add"
+    }
+}

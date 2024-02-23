@@ -1,0 +1,14 @@
+{
+    "title" : "Basliq",
+    "nav" : {
+        "home" : "Ana Sehife",
+        "products" : "Mehsullar",
+        "options" : "Secimlər",
+        "dashboard" : "Panel",
+        "add" : "Əlavə et",
+        "signOut" : "Çıxış"
+    },
+    "add" : {
+        "product_add" : "Mehsul Elave et"
+    }
+}
